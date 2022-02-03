@@ -1,6 +1,8 @@
 # Lenovo-Yoga-Slim-7-15IIL05-Hackintosh
 Hackintosh Clover for Lenovo Yoga Slim 7 - Ice Lake i7-1065G7
 
+![ImgW](https://user-images.githubusercontent.com/98582474/152338538-c2ddfa5f-7d18-4f44-8fd7-97b883be618a.jpg)
+
 # Some details about laptop:
 
 CPU         Intel Core i7-1065G7
