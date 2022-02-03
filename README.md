@@ -30,7 +30,7 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 2x USB-C, Thunderbolt 3
 
-TOUCHPAD  SYNA.... (not working)
+TOUCHPAD  Synaptics (SYNA2B5A) (not working)
 
 # Big Sur 11.6.3 / Monterey 12.2 tested but dont using
 
