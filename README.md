@@ -34,3 +34,4 @@ TOUCHPAD  SYNA.... (not working)
 
 # Big Sur 11.6.3 / Monterey 12.2 tested but dont using
 
+![Snímek obrazovky 2022-02-03 v 15 38 24](https://user-images.githubusercontent.com/98582474/152364307-90a39c1a-86e2-4354-b5a7-b558ced801ab.png)
