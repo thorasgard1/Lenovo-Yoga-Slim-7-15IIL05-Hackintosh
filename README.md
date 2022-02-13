@@ -32,6 +32,10 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 TOUCHPAD  Synaptics (SYNA2B5A) (not working)
 
-# Big Sur 11.6.3 / Monterey 12.2 tested but dont using
+# Big Sur 11.6.3 / Monterey 12.2.1
 
 ![Snímek obrazovky 2022-02-03 v 15 38 24](https://user-images.githubusercontent.com/98582474/152364307-90a39c1a-86e2-4354-b5a7-b558ced801ab.png)
+![Snímek obrazovky 2022-02-13 v 11 40 50](https://user-images.githubusercontent.com/98582474/153750145-3ba5e94a-00d9-4d24-8257-ec2725a76940.png)
+![Snímek obrazovky 2022-02-13 v 11 44 30](https://user-images.githubusercontent.com/98582474/153750149-a6e33a54-e05f-4b06-8d6e-802a80083ed3.png)
+![Snímek obrazovky 2022-02-13 v 11 44 51](https://user-images.githubusercontent.com/98582474/153750151-7ea05a9b-0eef-4647-9e3f-fdb2a865097c.png)
+![Snímek obrazovky 2022-02-13 v 11 46 29](https://user-images.githubusercontent.com/98582474/153750152-058ed0cb-103b-472f-aae4-3ff9e797d51e.png)
