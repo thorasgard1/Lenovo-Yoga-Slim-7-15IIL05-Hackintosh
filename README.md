@@ -20,7 +20,7 @@ RAM         16 GB LPDDR4X - 3200 (soldered)
 
 2.SSD       Transcend 512 GB PCIe NVMe (2242)
 
-AUDIO       Realtek	ALC287	alcid= 11 (detected but not working)
+AUDIO       Realtek	ALC287	alcid= 11 (I find solutions https://github.com/EmiliaZhang/YOGA14S-Hackintosh) 
 
 BT          Intel	Version 5.0
 
