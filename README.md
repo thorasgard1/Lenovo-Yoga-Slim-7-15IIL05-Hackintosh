@@ -32,7 +32,9 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 TOUCHPAD  Synaptics (SYNA2B5A) (not working)
 
-# Big Sur 11.6.3 / Monterey 12.2.1
+# Big Sur 11.6.5
+
+Update : 21.4.2022 New OC Sleep/Wake improved
 
 ![Snímek obrazovky 2022-02-14 v 17 30 12](https://user-images.githubusercontent.com/98582474/153914932-f582fdce-c18f-44ec-8b72-72dda9412860.png)
 ![Snímek obrazovky 2022-02-03 v 15 38 24](https://user-images.githubusercontent.com/98582474/152364307-90a39c1a-86e2-4354-b5a7-b558ced801ab.png)
