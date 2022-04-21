@@ -5,6 +5,7 @@ Hackintosh Clover for Lenovo Yoga Slim 7 - Ice Lake i7-1065G7
 ![ImgW (2)](https://user-images.githubusercontent.com/98582474/152338939-0f124b78-789d-4ef8-b49e-3a2e195b69ab.jpg)
 ![ImgW (1)](https://user-images.githubusercontent.com/98582474/152338953-37db9df1-4d8a-41e6-b35e-ad4d75702433.jpg)
 
+Update : 21.4.2022 New OC Sleep/Wake improved
 
 # Some details about laptop:
 
@@ -34,7 +35,6 @@ TOUCHPAD  Synaptics (SYNA2B5A) (not working)
 
 # Big Sur 11.6.5
 
-Update : 21.4.2022 New OC Sleep/Wake improved
 
 ![Snímek obrazovky 2022-02-14 v 17 30 12](https://user-images.githubusercontent.com/98582474/153914932-f582fdce-c18f-44ec-8b72-72dda9412860.png)
 ![Snímek obrazovky 2022-02-03 v 15 38 24](https://user-images.githubusercontent.com/98582474/152364307-90a39c1a-86e2-4354-b5a7-b558ced801ab.png)
