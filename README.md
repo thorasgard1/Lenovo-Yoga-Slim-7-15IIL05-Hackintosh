@@ -21,7 +21,7 @@ RAM         16 GB LPDDR4X - 3200 (soldered)
 
 2.SSD       Transcend 512 GB PCIe NVMe (2242)
 
-AUDIO       Realtek	ALC287	alcid= 11 (I find solutions https://github.com/EmiliaZhang/YOGA14S-Hackintosh) 
+AUDIO       Realtek	ALC287	alcid= 21 (original kext) 
 
 BT          Intel	Version 5.0
 
@@ -31,11 +31,11 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 2x USB-C, Thunderbolt 3
 
-TOUCHPAD  Synaptics (SYNA2B5A) (not working)
+TOUCHPAD  Synaptics (SYNA2B5A) Working THX Baio1977
 
 # Big Sur 11.6.7 + Ventura 13.0 tested, work but not used
 
-
+![Snímek obrazovky 2022-07-11 v 19 50 59](https://user-images.githubusercontent.com/98582474/178327946-a6907872-9ced-4f63-baed-bdc1947ede19.png)
 ![Sni-mek-obrazovky-2022-06-11-v-21-45-38](https://user-images.githubusercontent.com/98582474/174851553-a1fb12fd-8d91-4015-a36f-cebf6c1307be.png)
 ![Snímek obrazovky 2022-02-14 v 17 30 12](https://user-images.githubusercontent.com/98582474/153914932-f582fdce-c18f-44ec-8b72-72dda9412860.png)
 ![Snímek obrazovky 2022-02-03 v 15 38 24](https://user-images.githubusercontent.com/98582474/152364307-90a39c1a-86e2-4354-b5a7-b558ced801ab.png)
