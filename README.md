@@ -33,7 +33,7 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 TOUCHPAD  Synaptics (SYNA2B5A) Working THX Baio1977
 
-# Monterey 12.4 + Ventura 13.0 DB3 tested on THB3 external SSD, work but not used
+# Big Sur 11.6.7 + Ventura 13.0 DB3 tested on THB3 external SSD, work but not used
 
 ![Snímek obrazovky 2022-07-11 v 19 50 59](https://user-images.githubusercontent.com/98582474/178327946-a6907872-9ced-4f63-baed-bdc1947ede19.png)
 ![Sni-mek-obrazovky-2022-06-11-v-21-45-38](https://user-images.githubusercontent.com/98582474/174851553-a1fb12fd-8d91-4015-a36f-cebf6c1307be.png)
