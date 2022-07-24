@@ -7,7 +7,9 @@
 
 # UPDATE : 
 
-# 24.7.2022 Dual Boot upgrade OSX boot as first
+# 24.7.2022 
+
+#Dual Boot upgrade OSX boot as first
 
 # Brightness after start is full
                    
@@ -15,9 +17,11 @@
                    
 # NVMEFix.kext is removed causes KP
 
-# grey screen fixed in install and recovery mode
+# Grey screen fixed in install and recovery mode
                    
-# 11.7.2022 Touchpad and audio upgrade
+# 11.7.2022 
+
+#Touchpad and audio upgrade
 
 
 
