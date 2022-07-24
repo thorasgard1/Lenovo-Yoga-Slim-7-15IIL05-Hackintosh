@@ -14,6 +14,8 @@
 # SleepWake update
                    
 # NVMEFix.kext is removed causes KP
+
+# grey screen fixed in install and recovery mode
                    
 # 11.7.2022 Touchpad and audio upgrade
 
