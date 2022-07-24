@@ -17,6 +17,8 @@
                    
 # 11.7.2022 Touchpad and audio upgrade
 
+
+
 # Some details about laptop:
 
 CPU         Intel Core i7-1065G7
