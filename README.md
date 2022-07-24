@@ -5,7 +5,7 @@
 
 # 24.7.2022 
 
-#Dual Boot upgrade OSX boot as first
+# Dual Boot upgrade OSX boot as first
 
 # Brightness after start is full
                    
