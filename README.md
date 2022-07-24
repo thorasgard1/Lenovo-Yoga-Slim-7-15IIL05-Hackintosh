@@ -1,10 +1,6 @@
 # Lenovo-Yoga-Slim-7-15IIL05-Hackintosh
 # HACKINTOSH OPENCORE FOR LENOVO YOGA SLIM 7 - ICE LAKE I7-1065G7 FULLY WORKING
 
-![ImgW](https://user-images.githubusercontent.com/98582474/152338538-c2ddfa5f-7d18-4f44-8fd7-97b883be618a.jpg)
-![ImgW (2)](https://user-images.githubusercontent.com/98582474/152338939-0f124b78-789d-4ef8-b49e-3a2e195b69ab.jpg)
-![ImgW (1)](https://user-images.githubusercontent.com/98582474/152338953-37db9df1-4d8a-41e6-b35e-ad4d75702433.jpg)
-
 # UPDATE : 
 
 # 24.7.2022 
@@ -21,7 +17,11 @@
                    
 # 11.7.2022 
 
-#Touchpad and audio upgrade
+# Touchpad and audio upgrade
+
+![ImgW](https://user-images.githubusercontent.com/98582474/152338538-c2ddfa5f-7d18-4f44-8fd7-97b883be618a.jpg)
+![ImgW (2)](https://user-images.githubusercontent.com/98582474/152338939-0f124b78-789d-4ef8-b49e-3a2e195b69ab.jpg)
+![ImgW (1)](https://user-images.githubusercontent.com/98582474/152338953-37db9df1-4d8a-41e6-b35e-ad4d75702433.jpg)
 
 
 
