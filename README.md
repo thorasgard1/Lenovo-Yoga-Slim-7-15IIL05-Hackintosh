@@ -9,7 +9,6 @@ Update : 24.7.2022 Dual Boot upgrade OSX boot as first
                    Brightness after start is full
                    SleepWake update
                    NVMEFix.kext is removed causes KP
-                   
          11.7.2022 Touchpad and audio upgrade
 
 # Some details about laptop:
