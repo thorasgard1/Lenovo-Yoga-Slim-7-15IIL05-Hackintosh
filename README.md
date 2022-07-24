@@ -1,24 +1,6 @@
 # Lenovo-Yoga-Slim-7-15IIL05-Hackintosh
 # HACKINTOSH OPENCORE FOR LENOVO YOGA SLIM 7 - ICE LAKE I7-1065G7 FULLY WORKING
 
-# UPDATE : 
-
-# 24.7.2022 
-
-# Dual Boot upgrade OSX boot as first
-
-# Brightness after start is full
-                   
-# SleepWake update
-                   
-# NVMEFix.kext is removed causes KP
-
-# Grey screen fixed in install and recovery mode
-                   
-# 11.7.2022 
-
-# Touchpad and audio upgrade
-
 # Some details about laptop:
 
 CPU         Intel Core i7-1065G7
@@ -44,6 +26,26 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 2x USB-C, Thunderbolt 3
 
 TOUCHPAD  Synaptics (SYNA2B5A) Working THX Baio1977
+
+# UPDATE : 
+
+# 24.7.2022 
+
+# Dual Boot upgrade OSX boot as first
+
+# Brightness after start is full
+                   
+# SleepWake update
+                   
+# NVMEFix.kext is removed causes KP
+
+# Grey screen fixed in install and recovery mode
+                   
+# 11.7.2022 
+
+# Touchpad and audio upgrade
+
+
 
 ![ImgW](https://user-images.githubusercontent.com/98582474/152338538-c2ddfa5f-7d18-4f44-8fd7-97b883be618a.jpg)
 ![ImgW (2)](https://user-images.githubusercontent.com/98582474/152338939-0f124b78-789d-4ef8-b49e-3a2e195b69ab.jpg)
