@@ -5,7 +5,13 @@ Hackintosh Clover for Lenovo Yoga Slim 7 - Ice Lake i7-1065G7
 ![ImgW (2)](https://user-images.githubusercontent.com/98582474/152338939-0f124b78-789d-4ef8-b49e-3a2e195b69ab.jpg)
 ![ImgW (1)](https://user-images.githubusercontent.com/98582474/152338953-37db9df1-4d8a-41e6-b35e-ad4d75702433.jpg)
 
-Update : 11.7.2022 Touchpad and audio upgrade
+Update : 24.7.2022 Dual Boot upgrade OSX boot as first
+                   Brightness after start is full
+                   SleepWake update
+
+                   NVMEFix.kext is removed causes KP
+
+         11.7.2022 Touchpad and audio upgrade
 
 # Some details about laptop:
 
@@ -33,7 +39,7 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 TOUCHPAD  Synaptics (SYNA2B5A) Working THX Baio1977
 
-# Big Sur 11.6.7 + Ventura 13.0 DB3 tested on THB3 external SSD, work but not used
+# Monterey 12.5 + Ventura 13.0 PB1 tested on THB3 external SSD, work but not used
 
 ![Snímek obrazovky 2022-07-11 v 19 50 59](https://user-images.githubusercontent.com/98582474/178327946-a6907872-9ced-4f63-baed-bdc1947ede19.png)
 ![Sni-mek-obrazovky-2022-06-11-v-21-45-38](https://user-images.githubusercontent.com/98582474/174851553-a1fb12fd-8d91-4015-a36f-cebf6c1307be.png)
