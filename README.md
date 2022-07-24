@@ -45,13 +45,13 @@ TOUCHPAD  Synaptics (SYNA2B5A) Working THX Baio1977
 
 # Touchpad and audio upgrade
 
-
+# Monterey 12.5 + Ventura 13.0 PB1 tested on THB3 external SSD, work but not used
 
 ![ImgW](https://user-images.githubusercontent.com/98582474/152338538-c2ddfa5f-7d18-4f44-8fd7-97b883be618a.jpg)
 ![ImgW (2)](https://user-images.githubusercontent.com/98582474/152338939-0f124b78-789d-4ef8-b49e-3a2e195b69ab.jpg)
 ![ImgW (1)](https://user-images.githubusercontent.com/98582474/152338953-37db9df1-4d8a-41e6-b35e-ad4d75702433.jpg)
 
-# Monterey 12.5 + Ventura 13.0 PB1 tested on THB3 external SSD, work but not used
+
 
 ![Snímek obrazovky 2022-07-11 v 19 50 59](https://user-images.githubusercontent.com/98582474/178327946-a6907872-9ced-4f63-baed-bdc1947ede19.png)
 ![Sni-mek-obrazovky-2022-06-11-v-21-45-38](https://user-images.githubusercontent.com/98582474/174851553-a1fb12fd-8d91-4015-a36f-cebf6c1307be.png)
