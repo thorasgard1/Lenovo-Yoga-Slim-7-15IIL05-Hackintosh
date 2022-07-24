@@ -5,15 +5,17 @@ Hackintosh Clover for Lenovo Yoga Slim 7 - Ice Lake i7-1065G7
 ![ImgW (2)](https://user-images.githubusercontent.com/98582474/152338939-0f124b78-789d-4ef8-b49e-3a2e195b69ab.jpg)
 ![ImgW (1)](https://user-images.githubusercontent.com/98582474/152338953-37db9df1-4d8a-41e6-b35e-ad4d75702433.jpg)
 
-Update : 24.7.2022 Dual Boot upgrade OSX boot as first
+Update : 
 
-                   Brightness after start is full
+24.7.2022 Dual Boot upgrade OSX boot as first
+
+Brightness after start is full
                    
-                   SleepWake update
+SleepWake update
                    
-                   NVMEFix.kext is removed causes KP
+NVMEFix.kext is removed causes KP
                    
-                   11.7.2022 Touchpad and audio upgrade
+11.7.2022 Touchpad and audio upgrade
 
 # Some details about laptop:
 
