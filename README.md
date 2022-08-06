@@ -1,6 +1,12 @@
 # Lenovo-Yoga-Slim-7-15IIL05-Hackintosh
 # HACKINTOSH OPENCORE FOR LENOVO YOGA SLIM 7 - ICE LAKE I7-1065G7 FULLY WORKING
 
+# UPDATE : 
+
+# 6.8.2022
+
+FULL WORKING EFI : https://github.com/Baio1977/EFI-Hackintosh-collection/tree/main/EFI%20Laptop%20/LENOVO/Yoga%20slim%207%20IceLake%20
+
 # Some details about laptop:
 
 CPU         Intel Core i7-1065G7
@@ -27,11 +33,6 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 TOUCHPAD  Synaptics (SYNA2B5A)
 
-# UPDATE : 
-
-# 6.8.2022
-
-FULL WORKING EFI : https://github.com/Baio1977/EFI-Hackintosh-collection/tree/main/EFI%20Laptop%20/LENOVO/Yoga%20slim%207%20IceLake%20
 
 # BigSur 11.6.8 + Monterey 12.5 + Ventura 13.0 tested on THB3 external SSD, work but not used
 
