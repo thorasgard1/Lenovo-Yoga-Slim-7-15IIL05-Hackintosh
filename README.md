@@ -25,25 +25,13 @@ WIFI        Intel(R) Wi-Fi 6 AX201 160MHz
 
 2x USB-C, Thunderbolt 3
 
-TOUCHPAD  Synaptics (SYNA2B5A) Working THX Baio1977
+TOUCHPAD  Synaptics (SYNA2B5A)
 
 # UPDATE : 
 
-# 24.7.2022 
+# 6.8.2022
 
-# Dual Boot upgrade OSX boot as first
-
-# Brightness after start is full
-                   
-# SleepWake update
-                   
-# NVMEFix.kext is removed causes KP
-
-# Grey screen fixed in install and recovery mode
-                   
-# 11.7.2022 
-
-# Touchpad and audio upgrade
+FULL WORKING EFI : https://github.com/Baio1977/EFI-Hackintosh-collection/tree/main/EFI%20Laptop%20/LENOVO/Yoga%20slim%207%20IceLake%20
 
 # Monterey 12.5 + Ventura 13.0 PB1 tested on THB3 external SSD, work but not used
 
