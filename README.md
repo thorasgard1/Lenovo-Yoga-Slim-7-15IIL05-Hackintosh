@@ -13,7 +13,7 @@ CPU         Intel Core i7-1065G7
 
 iGPU        Intel	Iris Pro Plus G7
 
-dGPU        NVIDIA GeForce MX350 (disabled)(for working brightnes keys must be disabled in BIOS)
+dGPU        NVIDIA GeForce MX350
 
 RAM         16 GB LPDDR4X - 3200 (soldered)
 
