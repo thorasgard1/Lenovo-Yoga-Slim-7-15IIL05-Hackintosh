@@ -13,7 +13,7 @@ CPU         Intel Core i7-1065G7
 
 iGPU        Intel	Iris Pro Plus G7
 
-dGPU        NVIDIA GeForce MX350
+dGPU        NVIDIA GeForce MX350 (disabled)
 
 RAM         16 GB LPDDR4X - 3200 (soldered)
 
@@ -21,7 +21,7 @@ RAM         16 GB LPDDR4X - 3200 (soldered)
 
 2.SSD       Transcend 512 GB PCIe NVMe (2242)
 
-AUDIO       Realtek	ALC287	alcid= 21 (original kext) 
+AUDIO       Realtek	ALC287	alcid= 21
 
 BT          Intel	Version 5.0
 
