@@ -3,6 +3,10 @@
 
 # UPDATE : 
 
+# 8.1.2023
+
+ADD OWN EFI
+
 # 6.8.2022
 
 FULL WORKING EFI : https://github.com/Baio1977/EFI-Hackintosh-collection/tree/main/EFI%20Laptop%20/LENOVO/Yoga%20slim%207%20IceLake%20
